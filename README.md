@@ -1,2 +1,5 @@
-# notes4me_bot
-This repo will be soon my self-project that inspired my mind. I want to easily store and manage my notes on different topics using Telegram Bot API
+# python-telegram-bot template
+
+This is my custom template for Telegram webhooked bot.
+
+It uses FastAPI app to handle requests and uvicorn as server
